@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Perry O'Neil.
-- 👀 I’m a cloud and data subject matter expert at the USCG (contractor). I'm aslo a DSc student at Marymount University.
-- 🌱 I use github to track school and home projects.
-- 💞️ I use Claude and Microsoft Copilot extensively to generate Python code for servers (Raspberry Pi) and clients (Linux and Windows).
+- 👀 I’m a cloud, data, and AI data subject matter expert focused on AWS, Microsoft Azure, statistical analysis using Python, code gerneration using Anthropic CLaude, and business applications on Microsoft 365 Copilot. I'm also a DSc student at Marymount University.
+- 🌱 I use github for AWS and IoT projects.
+- 💞️ Current project: Model Based System Engineering (MBSE) using Anthropic Claude to create full multiplatform client-server systems on Windows and the Raspberry Pi fork od Debian Linux..
 - 📫 You can reach me on LinkedIn.
 
 <!---
